@@ -1,0 +1,2 @@
+- if you can not access the file, try [jsdelivr](https://cdn.jsdelivr.net/gh/awesome-trans/design/)
+- use [git lfs](https://git-lfs.github.com) to commit
